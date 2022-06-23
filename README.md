@@ -3,7 +3,7 @@
 ## 💿 Installation
 
 ```
-npm install --save-dev eslint @brikl/eslint-plugin-local
+pnpm install --save-dev eslint git://github.com/Brikl/eslint-plugin-local.git
 ```
 
 ## 📖 Usage
